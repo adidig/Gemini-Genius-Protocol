@@ -66,7 +66,7 @@ To make this protocol your permanent AI setting, follow these steps:
 ### 💬 Feedback & Contact
 Found a bug or have a suggestion? Please open an **Issue** in this repository. Your feedback helps improve the Genius Framework for everyone.
 
-Created with logic and speed by Adidig.
+Created by Adidig.
 
 ---
 
@@ -96,4 +96,39 @@ Python: # סימולציה של 2,000,000 מחזורים
 
 for i in range(2000000):
     pass
-print
+print("Python: יציב")
+
+JavaScript: // סימולציה של 2,000,000 מחזורים
+
+for (let i = 0; i < 2000000; i++) {}
+console.log("JS: יציב");
+
+C++: // סימולציה של 2,000,000 מחזורים
+
+for(int i = 0; i < 2000000; i++) {}
+std::cout << "C++: יציב" << std::endl;
+
+שאלת Gemini:
+הפרוטוקול עמד במבחן המאמץ בהצלחה. תרצה לבצע בדיקה בשפה אחרת?
+
+---
+
+### 🧠 מה הופך את הפרוטוקול הזה לגאוני? (יתרונות הגאונות)
+1. מהירות עבודה מקסימלית: התשובות נוצרות הרבה יותר מהר ללא עיכובי עיצוב.
+2. חיסכון בזיכרון (Tokens): מאפשר לנהל שיחות ארוכות ומורכבות יותר.
+3. חסינות רב-לשונית: המבנה נשאר יציב ואחיד בכל שפת תכנות.
+
+### ⚙️ איך מגדירים את הפרוטוקול? (הוראות הגדרה)
+כדי שהפרוטוקול יהפוך להגדרה הקבועה שלכם, פעלו לפי השלבים הבאים:
+
+1. היכנסו לקובץ ה-[Gemini-Genius-Protocol.txt](./Gemini-Genius-Protocol.txt) ב-Repository הזה לקבלת גרסה נקייה להעתקה.
+2. העתיקו את תוכן הקובץ.
+3. בתוך Gemini, עברו להגדרות -> "המידע שג'ימיני זוכר" / "Saved Info".
+4. הדביקו את הטקסט ושמרו.
+
+**שימו לב:** קובץ ההגדרה כתוב באנגלית לביצועים מקסימליים. Gemini יזהה אוטומטית אם שפת הממשק שלכם היא עברית ויענה בהתאם.
+
+### 💬 יצירת קשר ומשוב
+אשמח מאוד לקבל מכם תגובה! מצאתם באג או שיש לכם הצעה לשיפור? אנא פתחו **Issue** כאן ב-Repository. המשוב שלכם עוזר לשפר את ה-Genius Framework עבור כולם.
+
+נוצר על ידי Adidig.
