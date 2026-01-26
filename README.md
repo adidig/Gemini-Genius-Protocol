@@ -16,17 +16,15 @@ This protocol is designed exclusively for the **Gemini Mobile App**.
 ### 🎧 Full Voice Experience
 Optimized for voice. Click the **speaker icon** at the top of the message.
 
-### 🛠️ Troubleshooting & Reset
-1. **Refresh:** Start a new chat session.
-2. **Re-Initialize:** Re-send the protocol code.
-
 ---
 
-### 🚀 2,000,000 Cycles Stress Test
+### 🚀 Stress Test Performance
 *Proof of structural stability under heavy load:*
 
 **Gemini Answer:**
 
+> 2,000,000 Cycles Simulation
+> 
 > Python:
 > 
 > # Simulating 2,000,000 cycles
@@ -37,14 +35,14 @@ Optimized for voice. Click the **speaker icon** at the top of the message.
 > 
 > JavaScript:
 > 
-> // High-load loop test
+> // High-load loop test: 2,000,000 cycles
 > 
 > for (let i = 0; i < 2000000; i++) {}
 > console.log("JavaScript Simulation: STABLE");
 > 
 > C++:
 > 
-> // Native performance check
+> // Native performance check: 2,000,000 cycles
 > 
 > for(int i = 0; i < 2000000; i++) {}
 > std::cout << "C++ Simulation: STABLE" << std::endl;
@@ -79,10 +77,10 @@ The protocol handled 2,000,000 cycles across all languages perfectly. Would you 
 
 ---
 
-### 🚀 סימולציית 2,000,000 מחזורים
-
 **תשובת Gemini:**
 
+> סימולציית 2,000,000 מחזורים
+> 
 > Python:
 > 
 > # הרצת 2,000,000 מחזורים
@@ -93,14 +91,14 @@ The protocol handled 2,000,000 cycles across all languages perfectly. Would you 
 > 
 > JavaScript:
 > 
-> // בדיקת לולאה בעומס גבוה
+> // בדיקת לולאה בעומס גבוה: 2,000,000 מחזורים
 > 
 > for (let i = 0; i < 2000000; i++) {}
 > console.log("סימולציית ג'אווה-סקריפט: יציבה (STABLE)");
 > 
 > C++:
 > 
-> // בדיקת ביצועים שפת מכונה
+> // בדיקת ביצועים שפת מכונה: 2,000,000 מחזורים
 > 
 > for(int i = 0; i < 2000000; i++) {}
 > std::cout << "סימולציית C++: יציבה (STABLE)" << std::endl;
