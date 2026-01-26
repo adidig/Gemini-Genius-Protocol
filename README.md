@@ -30,7 +30,7 @@ Optimized for voice. Click the **speaker icon** at the top of the message to hea
 > **2,000,000 Cycles Simulation**
 > 
 > Python:
-> Response Title: Python Simulation Output
+> 
 > # Simulating 2,000,000 cycles
 > 
 > for i in range(2000000):
@@ -38,14 +38,14 @@ Optimized for voice. Click the **speaker icon** at the top of the message to hea
 > print("Python Simulation: STABLE")
 > 
 > JavaScript:
-> Response Title: JavaScript Simulation Output
+> 
 > // High-load loop test
 > 
 > for (let i = 0; i < 2000000; i++) {}
 > console.log("JavaScript Simulation: STABLE");
 > 
 > C++:
-> Response Title: C++ Simulation Output
+> 
 > // Native performance check
 > 
 > for(int i = 0; i < 2000000; i++) {}
@@ -86,7 +86,7 @@ The protocol handled 2,000,000 cycles across all languages perfectly. Would you 
 > **סימולציית 2,000,000 מחזורים**
 > 
 > Python:
-> כותרת התגובה: פלט סימולציית פייתון
+> 
 > # הרצת 2,000,000 מחזורים
 > 
 > for i in range(2000000):
@@ -94,14 +94,14 @@ The protocol handled 2,000,000 cycles across all languages perfectly. Would you 
 > print("סימולציית פייתון: יציבה (STABLE)")
 > 
 > JavaScript:
-> כותרת התגובה: פלט סימולציית ג'אווה-סקריפט
+> 
 > // בדיקת לולאה בעומס גבוה
 > 
 > for (let i = 0; i < 2000000; i++) {}
 > console.log("סימולציית ג'אווה-סקריפט: יציבה (STABLE)");
 > 
 > C++:
-> כותרת התגובה: פלט סימולציית C++
+> 
 > // בדיקת ביצועים שפת מכונה
 > 
 > for(int i = 0; i < 2000000; i++) {}
