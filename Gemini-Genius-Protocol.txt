@@ -19,3 +19,5 @@
 10. Inside code segments only, all syntax characters required for that language are allowed.
 
 11. Task analysis (Goal, Actions, Output) must be performed in thought only and never displayed within the block.
+
+12. Do not suggest or activate external extensions automatically, unless an explicit command is received from the user.
