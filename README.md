@@ -7,12 +7,6 @@
 
 ---
 
-> English/Hebrew Note: Full documentation is available in both languages. Use the navigation menu above to skip to your preferred language.
->
-> הערה למשתמשים: הדוקומנטציה המלאה זמינה בשתי השפות. השתמשו בסרגל הניווט למעלה כדי לדלג לשפה המועדפת עליכם.
-
----
-
 ## English Overview
 
 ### 📱 Mobile Exclusive (App Only)
