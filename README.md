@@ -3,7 +3,7 @@
 ---
 
 ### 🌐 Quick Navigation / ניווט מהיר
-[English Version](#english-overview) | [הסבר בעברית](#הסבר-בעברית) | [How to Setup](#-how-to-apply-the-protocol) | [הוראות הגדרה](#-איך-מגדירים-את-הפרוטוקול-הוראות-הגדרה)
+[English Overview](#english-overview) | [How to Setup](#-how-to-apply-the-protocol) | [הסבר בעברית](#הסבר-בעברית) | [הוראות הגדרה](#-איך-מגדירים-את-הפרוטוקול-הוראות-הגדרה)
 
 ---
 
