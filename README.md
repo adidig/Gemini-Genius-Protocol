@@ -59,22 +59,4 @@ To make this protocol your permanent AI setting, follow these steps:
 4. Paste the text and save.
 
 ### 💬 Feedback & Contact
-Found a bug or have a suggestion? Please open an **Issue** in this repository. Your feedback helps improve the Genius Framework for everyone.
-
-Created with logic and speed by Adidig.
-
----
-
-## הסבר בעברית
-
-### 📱 בלעדי למובייל (אפליקציה בלבד)
-פרויקט זה תוכנן ונבנה לשימוש בלעדי באפליקציית Gemini בנייד (iOS/Android). ביצועים מוכחים: הפרוטוקול נבדק ואושר כפועל בצורה חלקה ויציבה על מכשיר Redmi Note 11.
-
-### 🎧 חוויה קולית מלאה
-הפרוטוקול הזה עבר אופטימיזציה להקראה. אם אתם מעדיפים לשמוע במקום לקרוא, פשוט לחצו על סמל הרמקול בראש ההודעה. Gemini יקריא לכם את כל הוראות הפרוטוקול בקול טבעי.
-
-### 🛠️ טיפול בבאגים ואיפוס (Troubleshooting)
-במידה ו-Gemini מפסיק לעצב את התשובות בתוך בלוק קוד או חורג מהפרוטוקול:
-1. רענון: מומלץ לפתוח שיחה חדשה.
-2. איפוס ידני: השתמשו בקובץ ה-txt שנמצא ב-Repository לצורך הגדרה מחדש.
-3. פקודה ישירה: ניתן
+Found a bug or have a suggestion? Please open an **Issue** in this repository. Your feedback helps improve the Genius Framework for
