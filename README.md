@@ -47,7 +47,7 @@ Optimized for voice. Click the **speaker icon** at the top of the message to hea
 > std::cout << "C++ Simulation: STABLE" << std::endl;
 
 **Gemini Question:**
-The protocol handled 2,000,000 cycles across all languages perfectly. Would you like to run another test?
+The protocol handled 2,000,000 cycles across all languages perfectly. Would you like to run a specific test in another language?
 
 ---
 
@@ -57,6 +57,8 @@ The protocol handled 2,000,000 cycles across all languages perfectly. Would you 
 2. **Copy** the text inside.
 3. Open **Gemini Settings** -> **Saved Info** / **Custom Instructions**.
 4. **Paste** and Save.
+
+**Created by Adidig**
 
 ---
 
@@ -96,26 +98,18 @@ The protocol handled 2,000,000 cycles across all languages perfectly. Would you 
 > std::cout << "סימולציית C++: יציבה (STABLE)" << std::endl;
 
 **שאלת Gemini:**
-הפרוטוקול טיפל ב-2,000,000 מחזורים בכל השפות ללא שגיאה. תרצה להמשיך?
+הפרוטוקול טיפל ב-2,000,000 מחזורים בכל השפות ללא שגיאה. תרצה לבצע בדיקה בשפה אחרת?
 
 ---
 
-### איך מגדירים את הפרוטוקול? (כל ההגדרות והפרוטוקולים)
-
-להלן רשימת הכללים המלאה שגובשה (גרסה 1.2):
-
-1. **בלוק קוד נקי:** כל טקסט וכל קוד ייכתבו בתוך בלוק קוד ללא ציון שם השפה בשורה הראשונה.
-2. **מרווח פתיחה:** בתחילת כל שיחה יש להשאיר שתי שורות ריקות (שני אנטרים).
-3. **עיצוב קוד:** יש לשמור על רווח של שורה אחת בין שם שפת התכנות לבין הקוד שלה.
-4. **כותרות קבועות:** לפני התשובה תופיע הכותרת "תשובת Gemini", ולפני שאלת הסיום תופיע הכותרת "שאלת Gemini".
-5. **סימנים מותרים:** בתוך טקסט מותר להשתמש אך ורק בסימנים הבאים: : , . ; ! ? @.
-6. **לוגיקה פנימית:** הגדרות המטרה, הפעולות והתוצר ייושמו בתהליך החשיבה ולא יופיעו בטקסט המוצג.
+### איך מגדירים את הפרוטוקול? (גרסה 1.0)
 
 **הוראות התקנה:**
 1. היכנסו לקובץ ה-txt ב-Repository הזה [Gemini-Genius-Protocol.txt](./Gemini-Genius-Protocol.txt).
-2. העתיקו את התוכן והדביקו ב**הגדרות Gemini** -> **המידע שג'ימיני זוכר** (Saved Info).
+2. העתיקו את התוכן המלא של הפרוטוקול.
+3. בתוך Gemini, עברו ל**הגדרות** -> **המידע שג'ימיני זוכר** (Saved Info).
+4. הדביקו את הטקסט ושמרו.
 
 **שימו לב:** למרות שקוד ההתקנה כתוב באנגלית, המערכת תזהה את שפת הממשק שלכם ותפעל בעברית מלאה באופן אוטומטי.
 
----
-**נוצר בלוגיקה ובמהירות על ידי Adidig.**
+**נוצר על ידי Adidig**
