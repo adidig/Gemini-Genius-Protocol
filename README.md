@@ -17,6 +17,9 @@ Due to the structural nature of this protocol (forces a single code block), the 
 ### ⚡ Quick Installation (The Repository File)
 For the easiest installation, you can simply download the file named `Gemini-Genius-Protocol.txt` in this repository. It contains only the raw "Brain" code you need to send to Gemini.
 
+### 🔄 Future Updates
+Stay tuned! New versions, updated protocols, and additional support files will be uploaded to this repository regularly to ensure peak AI performance.
+
 ### The Dynamic Loop (Example)
 ---
 **Gemini Answer:**
@@ -49,7 +52,10 @@ Found a bug? Please open an **Issue** in this repository.
 בשל הארכיטקטורה של הפרוטוקול (בלוק קוד אחד), כפתור ה"העתקה" המובנה לא יכול להיווצר. ניתן לסמן ידנית או להשתמש ב**קובץ ההתקנה הייעודי**.
 
 ### ⚡ התקנה מהירה (קובץ הריפו)
-כדי להקל על ההתקנה, יצרנו עבורכם קובץ ייעודי בשם `Gemini-Genius-Protocol.txt` שנמצא כאן ב-Repository. הקובץ מכיל רק את קוד ה"מוח" הנקי, כך שתוכלו להעתיק אותו בקלות.
+כדי להקל על ההתקנה, יצרתי עבורכם קובץ ייעודי בשם `Gemini-Genius-Protocol.txt` שנמצא כאן ב-Repository. הקובץ מכיל רק את קוד ה"מוח" הנקי, כך שתוכלו להעתיק אותו בקלות.
+
+### 🔄 עדכונים ושיפורים
+הפרויקט ממשיך להתפתח! גרסאות חדשות, פרוטוקולים משופרים וקבצי עזר נוספים יעלו לכאן באופן שוטף כדי לשמור על ביצועי AI מקסימליים. מומלץ לעקוב אחרי ה-Repository.
 
 ### המחשת הלולאה הדינמית (איך זה נראה בפועל)
 ---
