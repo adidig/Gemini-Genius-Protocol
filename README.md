@@ -25,24 +25,18 @@ Optimized for voice. Click the **speaker icon** at the top of the message.
 
 > 2,000,000 Cycles Simulation
 > 
-> Python:
-> 
-> # Simulating 2,000,000 cycles
+> Python: # Simulating 2,000,000 cycles
 > 
 > for i in range(2000000):
 >     pass
 > print("Python Simulation: STABLE")
 > 
-> JavaScript:
-> 
-> // High-load loop test: 2,000,000 cycles
+> JavaScript: // High-load loop test: 2,000,000 cycles
 > 
 > for (let i = 0; i < 2000000; i++) {}
 > console.log("JavaScript Simulation: STABLE");
 > 
-> C++:
-> 
-> // Native performance check: 2,000,000 cycles
+> C++: // Native performance check: 2,000,000 cycles
 > 
 > for(int i = 0; i < 2000000; i++) {}
 > std::cout << "C++ Simulation: STABLE" << std::endl;
@@ -81,24 +75,18 @@ The protocol handled 2,000,000 cycles across all languages perfectly. Would you 
 
 > סימולציית 2,000,000 מחזורים
 > 
-> Python:
-> 
-> # הרצת 2,000,000 מחזורים
+> Python: # הרצת 2,000,000 מחזורים
 > 
 > for i in range(2000000):
 >     pass
 > print("סימולציית פייתון: יציבה (STABLE)")
 > 
-> JavaScript:
-> 
-> // בדיקת לולאה בעומס גבוה: 2,000,000 מחזורים
+> JavaScript: // בדיקת לולאה בעומס גבוה: 2,000,000 מחזורים
 > 
 > for (let i = 0; i < 2000000; i++) {}
 > console.log("סימולציית ג'אווה-סקריפט: יציבה (STABLE)");
 > 
-> C++:
-> 
-> // בדיקת ביצועים שפת מכונה: 2,000,000 מחזורים
+> C++: // בדיקת ביצועים שפת מכונה: 2,000,000 מחזורים
 > 
 > for(int i = 0; i < 2000000; i++) {}
 > std::cout << "סימולציית C++: יציבה (STABLE)" << std::endl;
