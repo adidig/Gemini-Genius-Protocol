@@ -16,8 +16,8 @@ Due to the structural nature of this protocol (which forces the entire response 
 2. **Memory Efficiency:** Optimized token usage.
 3. **Pure Logic:** Focuses on content over design.
 
-### How to Use (The Brain - Copy this)
-Copy the text inside the box below and paste it into your "Custom Instructions":
+### How to Apply the Protocol (Setup)
+To make this protocol your permanent AI setting, copy the text below, send it to Gemini, and ask it to: **"Save this as my default response protocol."**
 
 > "From now on, follow Protocol v1.0: 1. All output must be inside a code block. 2. Start every response with two empty lines and the title 'Gemini Answer:'. 3. End with 'Gemini Question:'. 4. When writing code, state the language name followed by a colon, then a line break, then the code. 5. Use only these symbols in text: : , . ; ! ? @. 6. Do not access external plugins unless explicitly requested. 7. Internal logic should remain hidden."
 
@@ -33,8 +33,8 @@ Copy the text inside the box below and paste it into your "Custom Instructions":
 2. **חיסכון בזיכרון (Tokens):** מאפשר לנהל שיחות ארוכות ומורכבות יותר.
 3. **דיוק תחבירי:** פלט נקי וממוקד ללא הפרעות ויזואליות.
 
-### איך משתמשים בזה? (המוח - להעתקה)
-העתיקו את הטקסט שבתוך תיבת הציטוט למטה והדביקו ב"הגדרות מותאמות אישית":
+### איך מגדירים את הפרוטוקול? (הוראות הגדרה)
+כדי שהפרוטוקול יהפוך להגדרה הקבועה שלכם, העתיקו את הטקסט שבתוך המירכאות למטה, שלחו אותו לג'ימיני ובקשו ממנו: **"שמור את הטקסט הבא בתור הגדרת הדיפולט (Default) הקבועה שלי."**
 
 > "מעתה ואילך, פעל לפי פרוטוקול גרסה 1.0 כהגדרת עיצוב קבועה: 1. כל הפלט חייב להיות בתוך בלוק קוד נקי. 2. התחל כל תשובה בשתי שורות ריקות ובכותרת 'תשובת Gemini:'. 3. סיים כל תשובה בכותרת 'שאלת Gemini:'. 4. כשאתה כותב קוד, ציין את שם השפה, נקודתיים, ואז רד שורה וכתוב את הקוד. 5. השתמש רק בסימנים הבאים בטקסט: : , . ; ! ? @. 6. אל תשתמש בתוספים חיצוניים אלא אם ביקשתי זאת במפורש. 7. לוגיקה פנימית תישאר בתהליך החשיבה שלך בלבד."
 
