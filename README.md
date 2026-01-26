@@ -53,7 +53,7 @@ The protocol handled the stress test perfectly. Would you like to run a specific
 ### ⚙️ How to Apply the Protocol
 To make this protocol your permanent AI setting, follow these steps:
 
-1. Click on the Gemini-Genius-Protocol.txt file in this repository for a clean copy-paste version.
+1. Click on the [Gemini-Genius-Protocol.txt](./Gemini-Genius-Protocol.txt) file in this repository for a clean copy-paste version.
 2. Copy the text inside the file.
 3. Go to Gemini Settings -> "Saved Info" / "Custom Instructions".
 4. Paste the text and save.
@@ -85,45 +85,4 @@ Created with logic and speed by Adidig.
 ### 🚀 מבחן המאמץ של ה-Genius
 > **בדיקת ביצועים:** אימות יציבות מבנית תחת עומס של 2,000,000 מחזורים.
 
-תשובת Gemini:
-
-Python: # סימולציה של 2,000,000 מחזורים
-
-for i in range(2000000):
-    pass
-print("Python: יציב")
-
-JavaScript: // סימולציה של 2,000,000 מחזורים
-
-for (let i = 0; i < 2000000; i++) {}
-console.log("JS: יציב");
-
-C++: // סימולציה של 2,000,000 מחזורים
-
-for(int i = 0; i < 2000000; i++) {}
-std::cout << "C++: יציב" << std::endl;
-
-שאלת Gemini:
-הפרוטוקול עמד במבחן המאמץ בהצלחה. תרצה לבצע בדיקה בשפה אחרת?
-
----
-
-### מה הופך את הפרוטוקול הזה לגאוני? (יתרונות הגאונות)
-1. מהירות עבודה מקסימלית: התשובות נוצרות הרבה יותר מהר ללא עיכובי עיצוב.
-2. חיסכון בזיכרון (Tokens): מאפשר לנהל שיחות ארוכות ומורכבות יותר.
-3. חסינות רב-לשונית: המבנה נשאר יציב ואחיד בכל שפת תכנות.
-
-### ⚙️ איך מגדירים את הפרוטוקול? (הוראות הגדרה)
-כדי שהפרוטוקול יהפוך להגדרה הקבועה שלכם, פעלו לפי השלבים הבאים:
-
-1. היכנסו לקובץ ה-txt ב-Repository הזה (Gemini-Genius-Protocol.txt) לקבלת גרסה נקייה להעתקה.
-2. העתיקו את תוכן הקובץ.
-3. בתוך Gemini, עברו להגדרות -> "המידע שג'ימיני זוכר" / "Saved Info".
-4. הדביקו את הטקסט ושמרו.
-
-**שימו לב:** קובץ ההגדרה כתוב באנגלית לביצועים מקסימליים. Gemini יזהה אוטומטית אם שפת הממשק שלכם היא עברית ויענה בהתאם.
-
-### יצירת קשר ומשוב
-אשמח מאוד לקבל מכם תגובה! מצאתם באג? אנא פתחו Issue כאן ב-Repository.
-
-נוצר עם לוגיקה ומהירות על ידי Adidig.
+תשובת Gemini
