@@ -1,8 +1,15 @@
 # Gemini-Genius-Protocol v1.0 (The Genius Framework)
 
-> English/Hebrew Note: Full documentation is available in both languages. English starts here; the Hebrew version (with setup instructions and voice features) is located at the bottom of the page.
+---
+
+### 🌐 Quick Navigation / ניווט מהיר
+[English Version](#english-overview) | [הסבר בעברית](#הסבר-בעברית) | [How to Setup](#how-to-apply-the-protocol-manual-setup) | [הוראות הגדרה](#איך-מגדירים-את-הפרוטוקול-הוראות-הגדרה)
+
+---
+
+> English/Hebrew Note: Full documentation is available in both languages. Use the navigation menu above to skip to your preferred language.
 >
-> הערה למשתמשים: הדוקומנטציה המלאה זמינה בשתי השפות. הגרסה האנגלית מופיעה כאן; הגרסה העברית (כולל הוראות הגדרה ופקודות קוליות) נמצאת בתחתית העמוד.
+> הערה למשתמשים: הדוקומנטציה המלאה זמינה בשתי השפות. השתמשו בסרגל הניווט למעלה כדי לדלג לשפה המועדפת עליכם.
 
 ---
 
