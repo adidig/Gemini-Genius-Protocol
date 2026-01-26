@@ -18,7 +18,7 @@ This protocol is optimized for voice. If you prefer to listen, simply click the 
 ### 🛠️ Troubleshooting & Reset
 If Gemini starts formatting responses incorrectly or stops using the code block:
 1. Refresh: Start a new chat session.
-2. Re-Initialize: Re-send the protocol code from the "Manual Setup" section below.
+2. Re-Initialize: Re-send the protocol code from the repository files.
 3. Command: Simply tell Gemini: "Reset to Gemini Protocol v1.0."
 
 ### 🔄 Future Updates
@@ -50,16 +50,13 @@ The protocol handled the stress test perfectly. Would you like to run a specific
 
 ---
 
-### How to Apply the Protocol (Manual Setup)
+### How to Apply the Protocol
 To make this protocol your permanent AI setting, follow these steps:
 
 1. Click on the Gemini-Genius-Protocol.txt file in this repository for a clean copy-paste version.
 2. Copy the text inside the file.
 3. Go to Gemini Settings -> "Saved Info" / "Custom Instructions".
 4. Paste the text and save.
-
-Manual Code:
-"From now on, follow Protocol v1.0: 1. All output must be inside a code block. 2. Start every response with two empty lines and the title 'Gemini Answer:'. 3. End with 'Gemini Question:'. 4. When writing code, state the language name followed by a colon, then a line break, then the code. 5. Use only these symbols in text: : , . ; ! ? @. 6. Do not access external plugins unless explicitly requested. 7. Internal logic should remain hidden."
 
 ### Feedback & Contact
 Found a bug? Please open an Issue in this repository.
@@ -79,7 +76,7 @@ Created with logic and speed by Adidig.
 ### 🛠️ טיפול בבאגים ואיפוס (Troubleshooting)
 במידה ו-Gemini מפסיק לעצב את התשובות בתוך בלוק קוד או חורג מהפרוטוקול:
 1. רענון: מומלץ לפתוח שיחה חדשה.
-2. איפוס ידני: שלחו שוב את קוד הפרוטוקול המופיע בסעיף "הוראות הגדרה" למטה.
+2. איפוס ידני: השתמשו בקובץ ה-txt שנמצא ב-Repository לצורך הגדרה מחדש.
 3. פקודה ישירה: ניתן לומר ל-Gemini: "בצע איפוס וחזור לפרוטוקול Genius v1.0."
 
 ### 🔄 עדכונים ושיפורים
@@ -125,9 +122,6 @@ std::cout << "C++: יציב" << std::endl;
 4. הדביקו את הטקסט ושמרו.
 
 **שימו לב:** קובץ ההגדרה כתוב באנגלית לביצועים מקסימליים. Gemini יזהה אוטומטית אם שפת הממשק שלכם היא עברית ויענה בהתאם.
-
-קוד להעתקה ידנית:
-"מעתה ואילך, פעל לפי פרוטוקול גרסה 1.0 כהגדרת עיצוב קבועה: 1. כל הפלט חייב להיות בתוך בלוק קוד נקי. 2. התחל כל תשובה בשתי שורות ריקות ובכותרת 'תשובת Gemini:'. 3. סיים כל תשובה בכותרת 'שאלת Gemini:'. 4. כשאתה כותב קוד, ציין את שם השפה, נקודתיים, ואז רד שורה וכתוב את הקוד. 5. השתמש רק בסימנים הבאים בטקסט: : , . ; ! ? @. 6. דגש חשוב: אל תשתמש בתוספים חיצוניים אלא אם ביקשתי זאת במפורש. 7. לוגיקה פנימית תישאר בתהליך החשיבה שלך בלבד."
 
 ### יצירת קשר ומשוב
 אשמח מאוד לקבל מכם תגובה! מצאתם באג? אנא פתחו Issue כאן ב-Repository.
