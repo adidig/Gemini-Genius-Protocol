@@ -10,25 +10,23 @@
 ## English Overview
 
 ### 📱 Mobile Exclusive (App Only)
-This protocol is designed exclusively for the **Gemini Mobile App** (iOS/Android).
+This protocol is designed exclusively for the **Gemini Mobile App**.
 * **Verified Performance:** Fully tested on **Redmi Note 11**.
 
 ### 🎧 Full Voice Experience
-Optimized for voice. Click the **speaker icon** at the top of the message to hear the full protocol.
+Optimized for voice. Click the **speaker icon** at the top of the message.
 
 ### 🛠️ Troubleshooting & Reset
 1. **Refresh:** Start a new chat session.
-2. **Re-Initialize:** Re-send the protocol code from the Manual Setup section.
+2. **Re-Initialize:** Re-send the protocol code.
 
-### The "Genius" Stress Test
-*Proof of structural stability under heavy load across multiple languages:*
+---
+
+### 🚀 2,000,000 Cycles Stress Test
+*Proof of structural stability under heavy load:*
 
 **Gemini Answer:**
 
-> I am now running a stress test simulation to verify structural integrity:
-> 
-> **2,000,000 Cycles Simulation**
-> 
 > Python:
 > 
 > # Simulating 2,000,000 cycles
@@ -58,9 +56,9 @@ The protocol handled 2,000,000 cycles across all languages perfectly. Would you 
 
 ### How to Apply the Protocol (Manual Setup)
 
-1. Open the [Gemini-Genius-Protocol.txt](./Gemini-Genius-Protocol.txt) file in this repository.
+1. Open the [Gemini-Genius-Protocol.txt](./Gemini-Genius-Protocol.txt) file.
 2. **Copy** the text inside.
-3. Open **Gemini Settings** -> **Saved Info** / **Custom Instructions**.
+3. Open **Gemini Settings** -> **Saved Info**.
 4. **Paste** and Save.
 
 **Created by Adidig**
@@ -79,12 +77,12 @@ The protocol handled 2,000,000 cycles across all languages perfectly. Would you 
 ### מבחן המאמץ של ה-Genius
 *המחשת יציבות תחת עומס חישובי רב-לשוני:*
 
+---
+
+### 🚀 סימולציית 2,000,000 מחזורים
+
 **תשובת Gemini:**
 
-> אני מריץ כעת סימולציית מאמץ כדי לוודא את יציבות המבנה:
-> 
-> **סימולציית 2,000,000 מחזורים**
-> 
 > Python:
 > 
 > # הרצת 2,000,000 מחזורים
