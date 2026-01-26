@@ -37,4 +37,52 @@ print("Python: STABLE")
 
 JavaScript: // 2,000,000 Cycles Simulation
 
-for (let i = 0; i < 2
+for (let i = 0; i < 2000000; i++) {}
+console.log("JS: STABLE");
+
+C++: // 2,000,000 Cycles Simulation
+
+for(int i = 0; i < 2000000; i++) {}
+std::cout << "C++: STABLE" << std::endl;
+
+Gemini Question:
+The protocol handled the stress test perfectly. Would you like to run a specific test in another language?
+
+---
+
+### 🧠 What makes this protocol Genius?
+1. Maximum Performance: Responses are generated much faster without formatting delays.
+2. Token Efficiency: Allows for much longer and more complex conversations.
+3. Multi-Language Resilience: Structural integrity remains stable across any programming language.
+
+### ⚙️ How to Apply the Protocol
+To make this protocol your permanent AI setting, follow these steps:
+
+1. Click on the [Gemini-Genius-Protocol.txt](./Gemini-Genius-Protocol.txt) file in this repository for a clean copy-paste version.
+2. Copy the text inside the file.
+3. Go to Gemini Settings -> "Saved Info" / "Custom Instructions".
+4. Paste the text and save.
+
+### 💬 Feedback & Contact
+Found a bug or have a suggestion? Please open an **Issue** in this repository. Your feedback helps improve the Genius Framework for everyone.
+
+Created by Adidig.
+
+---
+
+## הסבר בעברית
+
+### 📱 בלעדי למובייל (אפליקציה בלבד)
+פרויקט זה תוכנן ונבנה לשימוש בלעדי באפליקציית Gemini בנייד (iOS/Android). ביצועים מוכחים: הפרוטוקול נבדק ואושר כפועל בצורה חלקה ויציבה על מכשיר Redmi Note 11.
+
+### 🎧 חוויה קולית מלאה
+הפרוטוקול הזה עבר אופטימיזציה להקראה. אם אתם מעדיפים לשמוע במקום לקרוא, פשוט לחצו על סמל הרמקול בראש ההודעה. Gemini יקריא לכם את כל הוראות הפרוטוקול בקול טבעי.
+
+### 🛠️ טיפול בבאגים ואיפוס (Troubleshooting)
+במידה ו-Gemini מפסיק לעצב את התשובות בתוך בלוק קוד או חורג מהפרוטוקול:
+1. רענון: מומלץ לפתוח שיחה חדשה.
+2. איפוס ידני: השתמשו בקובץ ה-txt שנמצא ב-Repository לצורך הגדרה מחדש.
+3. פקודה ישירה: ניתן לומר ל-Gemini: "בצע איפוס וחזור לפרוטוקול Genius v1.0."
+
+### 🔄 עדכונים ושיפורים
+הפרויקט ממשיך להתפתח! גרסאות חדשות וקבצי ע
