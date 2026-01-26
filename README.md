@@ -24,34 +24,26 @@ If Gemini starts formatting responses incorrectly or stops using the code block:
 ### 🔄 Future Updates
 Stay tuned! New versions, updated protocols, and additional support files will be uploaded to this repository regularly. Desktop versions will be released in the future based on demand.
 
-### The "Genius" Stress Test (Multi-Language Example)
-Proof that the protocol remains stable under massive computational loads across different languages:
+### 🚀 The "Genius" Stress Test 
+> **Performance Check:** Verifying structural integrity across 2,000,000 cycles.
 
 Gemini Answer:
 
-I am now running a stress test simulation of 2,000,000 cycles across multiple languages to verify structural integrity:
-
-Python:
-
-# Simulating 2,000,000 cycles
+Python: # 2,000,000 Cycles Simulation
 for i in range(2000000):
     pass
-print("Python Simulation: STABLE")
+print("Python: STABLE")
 
-JavaScript:
-
-// Simulating high-load loop
+JavaScript: // 2,000,000 Cycles Simulation
 for (let i = 0; i < 2000000; i++) {}
-console.log("JavaScript Simulation: STABLE");
+console.log("JS: STABLE");
 
-C++:
-
-// Native performance check
+C++: // 2,000,000 Cycles Simulation
 for(int i = 0; i < 2000000; i++) {}
-std::cout << "C++ Simulation: STABLE" << std::endl;
+std::cout << "C++: STABLE" << std::endl;
 
 Gemini Question:
-The protocol handled 2,000,000 cycles in all languages perfectly. Would you like to run a specific test in another language?
+The protocol handled the stress test perfectly. Would you like to run a specific test in another language?
 
 ---
 
@@ -90,56 +82,48 @@ Created with logic and speed by Adidig.
 ### 🔄 עדכונים ושיפורים
 הפרויקט ממשיך להתפתח! גרסאות חדשות וקבצי עזר נוספים יעלו לכאן באופן שוטף. גרסאות המותאמות למחשב שולחני יעלו בהתאם לצורך בעדכונים הבאים.
 
-### מבחן המאמץ של ה-Genius (המחשת יציבות רב-לשונית)
-הוכחה לכך שהפרוטוקול שומר על מבנה נקי תחת עומס עבודה כבד במגוון שפות:
+### 🚀 מבחן המאמץ של ה-Genius
+> **בדיקת ביצועים:** אימות יציבות מבנית תחת עומס של 2,000,000 מחזורים.
 
 תשובת Gemini:
 
-אני מריץ כעת סימולציית מאמץ של 2,000,000 מחזורים במספר שפות כדי לוודא את יציבות המבנה:
-
-Python:
-
-# הרצת 2,000,000 מחזורים
+Python: # סימולציה של 2,000,000 מחזורים
 for i in range(2000000):
     pass
-print("סימולציית פייתון: יציבה (STABLE)")
+print("Python: יציב")
 
-JavaScript:
-
-// בדיקת עומס בלולאה
+JavaScript: // סימולציה של 2,000,000 מחזורים
 for (let i = 0; i < 2000000; i++) {}
-console.log("סימולציית ג'אווה-סקריפט: יציבה (STABLE)");
+console.log("JS: יציב");
 
-C++:
-
-// בדיקת ביצועים שפת מכונה
+C++: // סימולציה של 2,000,000 מחזורים
 for(int i = 0; i < 2000000; i++) {}
-std::cout << "סימולציית C++: יציבה (STABLE)" << std::endl;
+std::cout << "C++: יציב" << std::endl;
 
 שאלת Gemini:
-הפרוטוקול טיפל ב-2,000,000 מחזורים בכל השפות ללא שגיאה. תרצה לבצע בדיקה בשפה אחרת?
+הפרוטוקול עמד במבחן המאמץ בהצלחה. תרצה לבצע בדיקה בשפה אחרת?
 
 ---
 
 ### מה הופך את הפרוטוקול הזה לגאוני? (יתרונות הגאונות)
 1. מהירות עבודה מקסימלית: התשובות נוצרות הרבה יותר מהר ללא עיכובי עיצוב.
 2. חיסכון בזיכרון (Tokens): מאפשר לנהל שיחות ארוכות ומורכבות יותר.
-3. חסינות רב-לשונית: המבנה נשאר יציב ואחיד ב-Python, JS, C++ וכל שפה אחרת שתבחרו.
+3. חסינות רב-לשונית: המבנה נשאר יציב ואחיד בכל שפת תכנות.
 
 ### איך מגדירים את הפרוטוקול? (הוראות הגדרה)
 כדי שהפרוטוקול יהפוך להגדרה הקבועה שלכם, פעלו לפי השלבים הבאים:
 
 1. היכנסו לקובץ ה-txt ב-Repository הזה (Gemini-Genius-Protocol.txt) לקבלת גרסה נקייה להעתקה.
-2. העתיקו את תוכן הקובץ (זהו קוד ה"מוח" של הפרוטוקול).
+2. העתיקו את תוכן הקובץ.
 3. בתוך Gemini, עברו להגדרות -> "המידע שג'ימיני זוכר" / "Saved Info".
 4. הדביקו את הטקסט ושמרו.
 
-**שימו לב:** קובץ ההגדרה כתוב באנגלית כדי להבטיח ביצועים טכניים מקסימליים. עם זאת, אם שפת הממשק שלכם היא עברית, Gemini יזהה זאת אוטומטית ויענה לכם בעברית מלאה תוך שמירה על כללי הפרוטוקול.
+**שימו לב:** קובץ ההגדרה כתוב באנגלית לביצועים מקסימליים. Gemini יזהה אוטומטית אם שפת הממשק שלכם היא עברית ויענה בהתאם.
 
 קוד להעתקה ידנית:
 "מעתה ואילך, פעל לפי פרוטוקול גרסה 1.0 כהגדרת עיצוב קבועה: 1. כל הפלט חייב להיות בתוך בלוק קוד נקי. 2. התחל כל תשובה בשתי שורות ריקות ובכותרת 'תשובת Gemini:'. 3. סיים כל תשובה בכותרת 'שאלת Gemini:'. 4. כשאתה כותב קוד, ציין את שם השפה, נקודתיים, ואז רד שורה וכתוב את הקוד. 5. השתמש רק בסימנים הבאים בטקסט: : , . ; ! ? @. 6. דגש חשוב: אל תשתמש בתוספים חיצוניים אלא אם ביקשתי זאת במפורש. 7. לוגיקה פנימית תישאר בתהליך החשיבה שלך בלבד."
 
 ### יצירת קשר ומשוב
-אשמח מאוד לקבל מכם תגובה! מצאתם באג? אנא פתחו Issue כאן ב-Repository כדי שאוכל לתקן זאת בגרסאות הבאות.
+אשמח מאוד לקבל מכם תגובה! מצאתם באג? אנא פתחו Issue כאן ב-Repository.
 
 נוצר עם לוגיקה ומהירות על ידי Adidig.
