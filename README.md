@@ -19,27 +19,27 @@ Optimized for voice. Click the **speaker icon** at the top of the message to hea
 
 ### 🛠️ Troubleshooting & Reset
 1. **Refresh:** Start a new chat session.
-2. **Re-Initialize:** Re-send the protocol code from the [Manual Setup](#how-to-apply-the-protocol-manual-setup) section.
+2. **Re-Initialize:** Re-send the protocol code from the Manual Setup section below.
 
 ### The "Genius" Stress Test
 *Proof of structural stability under heavy load:*
 
 **Gemini Answer:**
+
 > I am now running a stress test simulation of 2,000,000 cycles to verify structural integrity:
 > 
 > **Python:**
-> ```python
+> 
 > # Simulating 2,000,000 cycles
 > for i in range(2000000):
 >     pass
 > print("Python Simulation: STABLE")
-> ```
+> 
 > **JavaScript:**
-> ```javascript
+> 
 > // Simulating high-load loop
 > for (let i = 0; i < 2000000; i++) {}
 > console.log("JavaScript Simulation: STABLE");
-> ```
 
 **Gemini Question:**
 The protocol handled 2,000,000 cycles perfectly. Would you like to run another test?
@@ -71,15 +71,15 @@ The protocol handled 2,000,000 cycles perfectly. Would you like to run another t
 *המחשת יציבות תחת עומס חישובי:*
 
 **תשובת Gemini:**
+
 > אני מריץ כעת סימולציית מאמץ של 2,000,000 מחזורים:
 > 
 > **Python:**
-> ```python
+> 
 > # הרצת 2,000,000 מחזורים
 > for i in range(2000000):
 >     pass
 > print("סימולציית פייתון: יציבה (STABLE)")
-> ```
 
 **שאלת Gemini:**
 הפרוטוקול טיפל ב-2,000,000 מחזורים ללא שגיאה. תרצה להמשיך?
