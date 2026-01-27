@@ -101,14 +101,11 @@ If you liked the project, I would appreciate it if you gave it a (Star ⭐) to s
 
 Note: Please send feedback in English or Hebrew only and only on the README page, not in the text file. The text file is updated regularly and may be deleted or changed, and your feedback could be lost.
 
-
 ### 🛠️ Setup Guide <a name="setup-guide"></a>
-1. Click here to download the file: [Gemini-Genius-Protocol](sandbox:/mnt/data/Gemini-Genius-Protocol.txt)
+1. Click here to view the file: [Gemini-Genius-Protocol](Gemini-Genius-Protocol.txt)
 2. Copy the full protocol definition text.
 3. Open your Gemini account settings.
 4. Paste the text into the Custom Instructions section.
-
-
 ---
 
 
