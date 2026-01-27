@@ -211,7 +211,7 @@ Gemini Genius Protocol
 
 
 ### 🛠️ הוראות הגדרה <a name="setup-instructions"></a>
-1. לחץ כאן להורדת הקובץ: [Protocol_Setup.txt](sandbox:/mnt/data/Protocol_Setup.txt)
+1. לחץ כאן להורדת הקובץ [Gemini-Genius-Protocol](Gemini-Genius-Protocol.txt)
 2. העתק את כל הטקסט מתוך הקובץ.
 3. פתח את הגדרות Gemini והדבק בתוך הוראות מותאמות אישית.
 4. שמור והתחל צ'אט חדש להפעלה מלאה.
