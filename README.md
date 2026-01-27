@@ -127,16 +127,22 @@ Note: Please send feedback in English or Hebrew only and only on the README page
 | **עיצוב ומבנה** | ✅ יציבות מבנית | ❌ לא צפוי |
 | **נראות הממשק** | ✅ אסתטיקת פרימיום | ❌ עמוס ויזואלית |
 
-</div>
+</div>### 🚀 מבחן מאמץ (Stress Test Example)
 
-### 🚀 מבחן מאמץ Genius
+**כך נראית התוצאה בתוך Gemini לאחר הפעלת הפרוטוקול:**
+
+```text
+תשובת Gemini
+
 יציבות מבנית אומתה תחת עומס של 2,000,000 מחזורים.
 
-
-קוד סימולציה:
 for i in range 2000000:
     pass
-print Gemini Answer: Stable
+print("Gemini Answer: Stable")
+
+שאלת Gemini
+
+האם תרצה להריץ מבחן מאמץ נוסף עבור רכיבי המערכת האחרים?
 
 
 ### 🧠 תוצאות ביצועים
