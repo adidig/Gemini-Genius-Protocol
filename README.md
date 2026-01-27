@@ -134,7 +134,7 @@ Note: Please send feedback in English or Hebrew only and only on the README page
 ```text
 תשובת Gemini
 
-יציבות מבנית אומתה תחת עומס של 2,000,000 מחזורים.
+יציבות מבנית אומתה תחת עומס של 2,000,000 מחזורים#.
 
 for i in range 2000000:
     pass
