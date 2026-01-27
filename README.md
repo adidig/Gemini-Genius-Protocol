@@ -1,132 +1,133 @@
-Gemini Genius Protocol
-🌐 Quick Navigation | ניווט מהיר
+# Gemini-Genius-Protocol v1.0 (The Genius Framework)
 
-English Overview | הסבר בעברית | Setup Guide | הוראות הגדרה | Feedback | משוב וצרו קשר
+---
 
-English Overview
-📱 Mobile Exclusive (App Only)
+### 🌐 Quick Navigation / ניווט מהיר
+[English Overview](#english-overview) | [How to Setup](#how-to-apply-the-protocol) | [הסבר בעברית](#הסבר-בעברית) | [הוראות הגדרה](#how-to-setup-hebrew)
 
-This protocol is designed exclusively for the Gemini Mobile App. Tested on Redmi Note 11. 💡 Ever feel like Gemini's responses are messy or inconsistent? This protocol redefines the engine's behavior to provide a structured, professional, and high-end experience. Software developers will find this method particularly useful for maintaining clean and reliable outputs.
+---
 
-🆚 Visual Comparison
+## English Overview
 
-Standard Gemini (The Chaos): ❌ Scattered text chunks. ❌ Unpredictable formatting. ❌ Cluttered interface.
+### 📱 Mobile Exclusive (App Only)
+This protocol is designed exclusively for the Gemini Mobile App (iOS/Android). Verified Performance: This framework has been fully tested and confirmed to run smoothly on the Redmi Note 11. Note: External links and plugins are disabled within this protocol to maintain speed and structural integrity.
 
-Gemini Genius Protocol (The Order): ✅ Clean Code Block: All content encapsulated. ✅ Structural Integrity: Fixed, predictable layout. ✅ Premium Aesthetic: Minimalist and high-end feel.
+### 🎧 Full Voice Experience
+This protocol is optimized for voice. If you prefer to listen, simply click the speaker icon at the top of the message. Gemini will read the entire protocol to you.
 
-🚀 Genius Stress Test
+### 🌍 Language Interface
+The model automatically detects and responds in the user's language. Gemini will adapt its response to match the language used by the user in each specific turn.
 
-Verified structural stability under a load of 2,000,000 cycles. Simulation Code: for i in range 2000000: pass print Gemini Answer: Stable
+**Note:** The user can switch the language at any time during the conversation.
 
-🧠 Performance Results
+### 🛠️ Free Text Character Constraints & Block Safety
+To prevent code blocks from breaking, the following characters are strictly forbidden in free text: quotes ( " ' ), slashes ( / ), brackets ( [ ] { } ), and the hash sign ( # ).
+**Allowed characters in text:** : , . ; ! ? @ and numbers (0-9).
 
-Verified structural stability and high-speed response processing. (Tested on Redmi Note 11 device)
+**Note:** Inside programming language code blocks, all language syntax may be used without restrictions.
 
-🎧 Full Voice Experience
+### 🧩 External Extensions Setup
+The activation or installation of any external extensions (e.g., Google Workspace, YouTube, Maps) is strictly prohibited by default. Gemini will only attempt to use an extension if a specific and explicit command is issued by the user during the conversation.
 
-The protocol is optimized for voice interactions. Click the speaker icon to listen.
+### 🚀 The "Genius" Stress Test 
+> **Performance Check:** Verifying structural integrity across 2,000,000 cycles.
 
-🌍 Language Interface
+Gemini Answer:
 
-The model automatically detects and responds according to the user's language. Gemini will adapt its response language to the language the user chooses to address it in at any stage of the conversation. (English, Hebrew, Arabic...) Note: The language can be changed dynamically during the conversation.
+Python: # 2,000,000 Cycles Simulation
+for i in range(2000000):
+pass
+print("Python: STABLE")
 
-🛡️ Free Texture (Block Safety)
+Gemini Question:
+The protocol handled the stress test perfectly. Would you like to run a specific test in another language?
 
-Allowed characters in text: : , . ; ! ? @ and numbers (0-9). Note: Inside programming code blocks, all syntax characters are permitted as required by the specific language.
+### 🧠 Why is it Genius?
+This protocol creates a seamless and professional interaction by enforcing a strict structure and character set. It prevents system breakdowns, ensures visual consistency, and gives the user absolute control over every response and external tool.
 
-🧩 External Extensions Setup
+### 🐛 Bug Reporting & Reset 🔄
+If you encounter a visual bug or a block breakage, simply type "Reset Protocol". This will force Gemini to re-initialize the structural settings and clear any temporary formatting errors.
 
-The activation or installation of external extensions such as: (Google Workspace, YouTube, Maps) is blocked by default in this Gemini protocol. Extensions will only be used upon an explicit and direct command from the user.
+### 🔄 Updates
+* **Version 1.0:** Initial release of the Gemini-Genius-Protocol.
 
-🏷️ Protocol Settings
+### 💬 Feedback & Contact
+I would be happy to receive your suggestions or hear about any bugs you found! Feel free to open an issue or reach out! 
 
-The official name of this protocol is: Gemini Genius Protocol. To view the full technical rules and conditions, type: Protocol Settings. To view the current version and update history, type: Version Information.
+If you like this project, please consider giving it a ⭐ **Star** to show your support!
 
-🐛 Bug Reporting & Reset 🔄
+**Note:** Please send feedback **only in English or Hebrew**, and only on this README page. The text file is updated constantly and may be deleted or overwritten, causing your feedback to be lost.
 
-In case of a visual bug or a code block break, simply type: Reset Protocol. This action will force Gemini to restart the structural settings and clear temporary design and formatting errors.
+---
 
-📋 Quick Setup (Copy & Paste)
-Click the copy icon on the right side of the box below to copy the settings directly into Gemini:
+### ⚙️ How to
+### ⚙️ How to Apply the Protocol <a name="how-to-apply-the-protocol"></a>
+1. Click on the [Gemini-Genius-Protocol.txt](Gemini-Genius-Protocol.txt) file in this repository.
+2. Copy the text inside the file.
+3. Go to Gemini Settings -> "Saved Info".
+4. Paste the text and save.
 
-Plaintext
+Created by Adidig.
 
-1. Gemini-Genius-Protocol
-2. All text and code must be written inside a clean code block.
-3. The design definition must appear in every conversation within a code block.
-4. Responses should be sent as a clean block, without specifying the language name in the first line.
-5. Maintain a single empty line space between the programming language name and its code, and between different sections.
-6. The interface language shall be Hebrew, unless otherwise requested.
-7. For each step, define purpose, actions to perform, and output within the thinking process only (not in the displayed text).
-8. Use numbered lists for protocols and definitions.
-9. In plain text, only the following characters are allowed: : , . ; ! ? @ and numbers (0-9).
-10. Inside code segments only, all syntax characters required for that programming language are permitted.
-11. The title "תשובת Gemini" must appear at the beginning of the response.
-12. The title "שאלת Gemini" must appear before the final concluding question.
-13. External extensions (Workspace, YouTube, Maps) are blocked by default and used only upon explicit command.
-14. The command "Reset Protocol" will clear formatting errors and restart the structural settings.
-הסבר בעברית
-📱 בלעדי לנייד (אפליקציה בלבד)
+---
 
-פרוטוקול זה תוכנן באופן בלעדי עבור אפליקציית Gemini לנייד. נבדק על Redmi Note 11. 💡 מרגישים לפעמים שהתשובות של Gemini מבולגנות או לא עקביות? הפרוטוקול הזה מגדיר מחדש את התנהגות המודל כדי לספק חוויה מובנית, מקצועית ויוקרתית. מפתחי תוכנה ימצאו שימוש נרחב בשיטה זו לשמירה על פלט נקי ומדויק.
+## הסבר בעברית
 
-🆚 השוואה ויזואלית
+### 📱 בלעדי למובייל (אפליקציה בלבד)
+פרויקט זה תוכנן ונבנה לשימוש בלעדי באפליקציית Gemini בנייד. ביצועים מוכחים: הפרוטוקול נבדק ואושר כפועל בצורה חלקה ויציבה על מכשיר Redmi Note 11.
 
-Gemini סטנדרטי (הכאוס): ❌ טקסט מפוזר ולא עקבי. ❌ עיצוב משתנה ולא צפוי. ❌ ממשק עמוס ויזואלית.
+### 🎧 חוויית קול מלאה
+הפרוטוקול עבר אופטימיזציה לקול. להאזנה יש ללחוץ על אייקון הרמקול בראש ההודעה ו-Gemini תקריא את כל התוכן.
 
-פרוטוקול Gemini Genius (הסדר): ✅ בלוק קוד נקי: כל התוכן ארוז ומסודר. ✅ יציבות מבנית: מבנה קבוע ומקצועי. ✅ אסתטיקת פרימיום: תחושת מינימליזם יוקרתית.
+### 🌍 שפת ממשק
+המודל מזהה באופן אוטומטי ומגיב בהתאם לשפת המשתמש. Gemini תתאים את שפת התגובה שלה לשפה שבה המשתמש בחר לפנות אליה בכל שלב בשיחה.
 
-🚀 מבחן מאמץ Genius
+**הערה:** המשתמש יכול להחליף את השפה בכל עת תוך כדי הדיבור או השיחה.
 
-יציבות מבנית אומתה תחת עומס של 2,000,000 מחזורים. קוד סימולציה: for i in range 2000000: pass print Gemini Answer: Stable
+### 🛠️ הגבלת תווים ובטיחות הבלוק בטקסט חופשי
+כדי למנוע את שבירת בלוק הקוד, חל איסור מוחלט על שימוש בתווים הבאים בטקסט חופשי: גרשיים ( " ' ), לוכסן ( / ), סוגריים ( [ ] { } ) וסימן הסולמית ( # ).
+**תווים מותרים בטקסט:** : , . ; ! ? @ ומספרים (0-9).
 
-🧠 תוצאות ביצועים
+**הערה:** בתוך קטעי קוד של שפות תוכנה, ניתן להשתמש בכל תחבירי השפה ללא הגבלה.
 
-אומתה יציבות מבנית ועיבוד תגובה במהירות גבוהה. (נבדק על מכשיר Redmi Note 11)
+### 🧩 התקנת תוספים חיצוניים
+הפעלה או התקנה של תוספים חיצוניים (כגון Google Workspace, YouTube, Maps) חסומה כברירת מחדל בפרוטוקול זה. Gemini לא תציע ולא תפעיל אף תוסף אלא אם תתקבל פקודה מפורשת וישירה מהמשתמש במהלך השיחה.
 
-🎧 חוויה קולית מלאה
+### 🚀 מבחן המאמץ של ה-Genius
+> **בדיקת ביצועים:** אימות יציבות מבנית תחת עומס של 2,000,000 מחזורים.
 
-הפרוטוקול מותאם לאינטראקציות קוליות. לחץ על אייקון הרמקול כדי להאזין.
+תשובת Gemini:
 
-🌍 ממשק שפה
+Python: # סימולציה של 2,000,000 מחזורים
+for i in range(2000000):
+    pass
+print("Python: יציב")
 
-המודל מזהה באופן אוטומטי ומגיב בהתאם לשפת המשתמש. Gemini תתאים את שפת התגובה שלה לשפה שבה המשתמש בוחר לפנות אליה, כמו בכל שלב בשיחה. (עברית, אנגלית, ערבית...) הערה: ניתן לשנות את השפה באופן דינמי תוך כדי הדיבור והשיחה.
+שאלת Gemini:
+הפרוטוקול עמד במבחן המאמץ בהצלחה. תרצה לבצע בדיקה בשפה אחרת?
 
-🛡 הגבלת תווים (בטיחות הבלוק)
+### 🧠 למה זה גאוני?
+הפרוטוקול יוצר אינטראקציה חלקה ומקצועית על ידי אכיפת מבנה קשיח וערכת תווים מוגדרת. הוא מונע קריסות מערכת, מבטיח עקביות ויזואלית ומעניק למשתמש שליטה מוחלטת על כל תגובה ועל כל כלי חיצוני.
 
-תווים מותרים בטקסט: : , . ; ! ? @ ומספרים (0-9). הערה: בתוך בלוקים של קוד תכנות, מותר להשתמש בכל סימני התחביר הנדרשים לאותה השפה.
+### 🐛 דיווח על באגים ואיפוס 🔄
+במקרה של באג ויזואלי או שבירה של בלוק הקוד, פשוט הקלידו "איפוס פרוטוקול". פעולה זו תאלץ את Gemini להפעיל מחדש את הגדרות המבנה ולנקות שגיאות עיצוב זמניות.
 
-🧩 התקנת תוספים חיצוניים
+### 🔄 עדכונים
+* **גרסה 1.0:** שחרור ראשוני של Gemini-Genius-Protocol.
 
-הפעלה או התקנה של תוספים חיצוניים כגון: (Google Workspace, YouTube, Maps) חסומה כברירת מחדל בפרוטוקול זה ב-Gemini. הפעלת תוספים או שימוש בהם יתבצעו אך ורק לאחר פקודה מפורשת וישירה מהמשתמש.
+### 💬 משוב וצור קשר
+אשמח מאוד לקבל את ההצעות שלכם או לשמוע על באגים שמצאתם! אתם מוזמנים לפתוח Issue או ליצור קשר!
 
-🏷 הגדרות פרוטוקול
+אם אהבתם את הפרויקט, אשמח אם תפרגנו ב-⭐ **Star** כדי להראות את תמיכתכם!
 
-שמו הרשמי של פרוטוקול זה הוא: Gemini Genius Protocol. כדי להציג את כל חוקי התחביר והתנאים הטכניים, הקלד: הגדרות פרוטוקול. כדי להציג את הגרסה הנוכחית והיסטוריית העדכונים, הקלד: מידע על הגרסה.
+**הערה:** נא לשלוח משוב **באנגלית או בעברית בלבד**, ורק בדף זה (README) ולא בדף קובץ הטקסט. קובץ הטקסט מתעדכן באופן שוטף, עלול להימחק או להשתנות, והמשוב שלכם עלול ללכת לאיבוד.
 
-🐛 דיווח על באגים ואיפוס 🔄
+---
 
-במקרה של באג ויזואלי או שבירה של בלוק קוד, פשוט הקלידו: איפוס פרוטוקול. פעולה זאת תאלץ את Gemini להפעיל מחדש את הגדרות המבנה ולנקות שגיאות עיצוב זמניות.
+### ⚙️ איך מגדירים את הפרוטוקול? <a name="how-to-setup-hebrew"></a>
+1. היכנסו לקובץ [Gemini-Genius-Protocol.txt](Gemini-Genius-Protocol.txt) ב-Repository הזה.
+2. העתיקו את תוכן הקובץ.
+3. בתוך Gemini, עברו להגדרות -> "המידע ש-Gemini זוכר".
+4. הדביקו את הטקסט ושמרו.
 
-🛠️ Setup Guide | הוראות הגדרה
-Copy the text from the Quick Setup box above.
-
-Open your Gemini account settings.
-
-Paste the text into the Custom Instructions section.
-
-Save and start a new chat for full activation.
-
-העתק את הטקסט מתיבת ה-Quick Setup למעלה.
-
-פתח את הגדרות Gemini והדבק בתוך הוראות מותאמות אישית.
-
-שמור והתחל צ'אט חדש להפעלה מלאה.
-
-🆕 Updates
-Version 1.0 Official Release: Gemini Genius Protocol
-
-💬 Feedback & Contact | משוב וצרו קשר
-I would love to receive your suggestions or hear about bugs you've found. You are welcome to open an Issue or contact me. If you liked the project, I would appreciate it if you gave it a (Star ⭐) to show your contribution.
-
-Created by: Adidig
+נוצר על ידי Adidig.
