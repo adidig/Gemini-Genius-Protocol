@@ -134,7 +134,9 @@ Note: Please send feedback in English or Hebrew only and only on the README page
 ```text
 תשובת Gemini
 
-יציבות מבנית אומתה תחת עומס של 2,000,000 מחזורים#.
+
+#יציבות מבנית אומתה תחת עומס של 2,000,000 מחזורים.
+python
 
 for i in range 2000000:
     pass
@@ -142,6 +144,7 @@ print("Gemini Answer: Stable")
 
 ```
 שאלת Gemini
+האם תרצה לבצע בדיקת יציבות דומה בשפת תכנות אחרת?
 
 ### 🧠 תוצאות ביצועים
 אומתה יציבות מבנית ועיבוד תגובה במהירות גבוהה.
