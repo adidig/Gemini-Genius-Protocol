@@ -64,10 +64,11 @@ Note: Please send feedback in English or Hebrew only and only on the README page
 
 🛠️ Setup Guide
 
-Click here to download the file: Gemini-Genius-Protocol.txt
-Copy the full protocol definition text.
-Open your Gemini account settings.
-Paste the text into the Custom Instructions section.
+[Click here to download the file: Gemini-Genius-Protocol.txt](./Gemini-Genius-Protocol.txt)
+
+1. Copy the full protocol definition text.
+2. Open your Gemini account settings.
+3. Paste the text into the Custom Instructions section.
 
 Created by: Adidig
 
@@ -131,9 +132,10 @@ Gemini סטנדרטי (הכאוס): ❌ טקסט מפוזר ולא עקבי. ❌
 
 🛠️ הוראות הגדרה
 
-לחץ כאן להורדת הקובץ: Gemini-Genius-Protocol.txt
-העתק את כל הטקסט מתוך הקובץ.
-פתח את הגדרות Gemini והדבק בתוך הוראות מותאמות אישית.
-שמור והתחל צ'אט חדש להפעלה מלאה.
+[לחץ כאן להורדת הקובץ: Gemini-Genius-Protocol.txt](./Gemini-Genius-Protocol.txt)
+
+1. העתק את כל הטקסט מתוך הקובץ.
+2. פתח את הגדרות Gemini והדבק בתוך הוראות מותאמות אישית.
+3. שמור והתחל צ'אט חדש להפעלה מלאה.
 
 נוצר על ידי: Adidig
