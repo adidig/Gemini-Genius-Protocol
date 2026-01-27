@@ -117,6 +117,8 @@ Note: Please send feedback in English or Hebrew only and only on the README page
 
 
 💡 **מרגישים לפעמים שהתשובות של Gemini מבולגנות או לא עקביות? הפרוטוקול הזה מגדיר מחדש את התנהגות המודל כדי לספק חוויה מובנית, מקצועית ויוקרתית. מפתחי תוכנה ימצאו שימוש נרחב בשיטה זו לשמירה על פלט נקי ומדויק.**
+<div align="right">
+
 ### 🆚 השוואה ויזואלית
 
 | מאפיין | Gemini Genius Protocol | Gemini סטנדרטי |
@@ -125,6 +127,7 @@ Note: Please send feedback in English or Hebrew only and only on the README page
 | **עיצוב ומבנה** | ✅ יציבות מבנית | ❌ לא צפוי |
 | **נראות הממשק** | ✅ אסתטיקת פרימיום | ❌ עמוס ויזואלית |
 
+</div>
 
 ### 🚀 מבחן מאמץ Genius
 יציבות מבנית אומתה תחת עומס של 2,000,000 מחזורים.
