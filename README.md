@@ -17,18 +17,11 @@ This protocol is designed exclusively for the Gemini Mobile App. Tested on Redmi
 
 💡 **Ever feel like Gemini's responses are messy or inconsistent? This protocol redefines the engine's behavior to provide a structured, professional, and high-end experience. Software developers will find this method particularly useful for maintaining clean and reliable outputs.**
 
-
-#### 🆚 Visual Comparison
-> **Standard Gemini (The Chaos):**
-> ❌ Scattered text chunks.
-> ❌ Unpredictable formatting.
-> ❌ Cluttered interface.
-> 
-> **Gemini Genius Protocol (The Order):**
-> ✅ **Clean Code Block:** All content encapsulated.
-> ✅ **Structural Integrity:** Fixed, predictable layout.
-> ✅ **Premium Aesthetic:** Minimalist and high-end feel.
-
+| Feature | Standard Gemini | Gemini Genius Protocol |
+| :--- | :---: | :---: |
+| **Organization** | ❌ Scattered chunks | ✅ Clean Code Block |
+| **Formatting** | ❌ Unpredictable | ✅ Structural Integrity |
+| **Interface** | ❌ Cluttered | ✅ Premium Aesthetic |
 
 ### 🚀 Genius Stress Test
 Verified structural stability under a load of 2,000,000 cycles.
@@ -211,7 +204,7 @@ Gemini Genius Protocol
 
 
 ### 🛠️ הוראות הגדרה <a name="setup-instructions"></a>
-1. לחץ כאן להורדת הקובץ [Gemini-Genius-Protocol](Gemini-Genius-Protocol.txt)
+1. לחץ כאן לצפיה הקובץ [Gemini-Genius-Protocol](Gemini-Genius-Protocol.txt)
 2. העתק את כל הטקסט מתוך הקובץ.
 3. פתח את הגדרות Gemini והדבק בתוך הוראות מותאמות אישית.
 4. שמור והתחל צ'אט חדש להפעלה מלאה.
