@@ -64,7 +64,7 @@ Note: Please send feedback in English or Hebrew only and only on the README page
 
 🛠️ Setup Guide
 
-Click here to download the file: Protocol_Setup.txt
+Click here to download the file: Gemini-Genius-Protocol.txt
 Copy the full protocol definition text.
 Open your Gemini account settings.
 Paste the text into the Custom Instructions section.
@@ -131,7 +131,7 @@ Gemini סטנדרטי (הכאוס): ❌ טקסט מפוזר ולא עקבי. ❌
 
 🛠️ הוראות הגדרה
 
-לחץ כאן להורדת הקובץ: Protocol_Setup.txt
+לחץ כאן להורדת הקובץ: Gemini-Genius-Protocol.txt
 העתק את כל הטקסט מתוך הקובץ.
 פתח את הגדרות Gemini והדבק בתוך הוראות מותאמות אישית.
 שמור והתחל צ'אט חדש להפעלה מלאה.
