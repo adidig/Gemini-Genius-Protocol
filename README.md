@@ -142,9 +142,11 @@ for i in range 2000000:
     pass
 print("Gemini Answer: Stable")
 
-```
+
 שאלת Gemini
 האם תרצה לבצע בדיקת יציבות דומה בשפת תכנות אחרת?
+```
+
 
 ### 🧠 תוצאות ביצועים
 אומתה יציבות מבנית ועיבוד תגובה במהירות גבוהה.
