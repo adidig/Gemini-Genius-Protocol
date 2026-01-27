@@ -103,7 +103,7 @@ Note: Please send feedback in English or Hebrew only and only on the README page
 
 
 ### 🛠️ Setup Guide <a name="setup-guide"></a>
-1. Click here to download the file: [Protocol_Setup.txt](sandbox:/mnt/data/Gemini-Genius-Protocol.txt)
+1. Click here to download the file: [Gemini-Genius-Protocol](sandbox:/mnt/data/Gemini-Genius-Protocol.txt)
 2. Copy the full protocol definition text.
 3. Open your Gemini account settings.
 4. Paste the text into the Custom Instructions section.
