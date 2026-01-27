@@ -64,7 +64,7 @@ Note: Please send feedback in English or Hebrew only and only on the README page
 
 🛠️ Setup Guide
 
-[Open the setup file: Gemini-Genius-Protocol.txt](Gemini-Genius-Protocol.txt)
+[Open the setup file: Gemini-Genius-Protocol.txt](https://raw.githubusercontent.com/adidig/Gemini-Genius-Protocol/main/Gemini-Genius-Protocol.txt)
 
 1. Open the link above to view the protocol text.
 2. Copy the full protocol definition text.
@@ -133,7 +133,7 @@ Gemini סטנדרטי (הכאוס): ❌ טקסט מפוזר ולא עקבי. ❌
 
 🛠️ הוראות הגדרה
 
-[פתח את קובץ ההגדרה: Gemini-Genius-Protocol.txt](Gemini-Genius-Protocol.txt)
+[פתח את קובץ ההגדרה: Gemini-Genius-Protocol.txt](https://raw.githubusercontent.com/adidig/Gemini-Genius-Protocol/main/Gemini-Genius-Protocol.txt)
 
 1. פתח את הקישור למעלה כדי לצפות בטקסט של הפרוטוקול.
 2. העתק את כל הטקסט מתוך הדף שייפתח.
