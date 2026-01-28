@@ -120,13 +120,13 @@ Note: Please send feedback in English or Hebrew only and only on the README page
 
 
 <div dir="rtl">
-```
+
 | מאפיין | Gemini Genius Protocol | Gemini סטנדרטי |
 | :--- | :---: | :---: |
 | **סדר וארגון** | ✅ בלוק קוד נקי | ❌ טקסט מפוזר |
 | **עיצוב ומבנה** | ✅ יציבות מבנית | ❌ לא צפוי |
 | **נראות הממשק** | ✅ אסתטיקת פרימיום | ❌ עמוס ויזואלית |
-```
+
 </div>
 
 
