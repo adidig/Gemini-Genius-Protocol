@@ -64,7 +64,7 @@ The activation or installation of external extensions such as:
 is blocked by default in this Gemini protocol.
 Extensions will only be used upon an explicit and direct command from the user.
 
-
+ 
 ### 🏷️ Protocol Settings
 The official name of this protocol is: Gemini Genius Protocol.
 To view the full technical rules and conditions, type: Protocol Settings.
