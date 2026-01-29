@@ -1,7 +1,6 @@
 import streamlit as st
 import google.generativeai as genai
 from streamlit_mic_recorder import speech_to_text
-import os
 
 # 1. Page Configuration
 gemini_icon = "https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304651130.png"
@@ -21,20 +20,14 @@ st.markdown(f"""
 # 3. Protocol Setup
 SYSTEM_PROMPT = "Answer in the user's language. Start with '🇮🇱 Gemini תשובת'. Put 📝 before text. End with '🇮🇱 Gemini שאלת'."
 
-# 4. API Key Retrieval (Corrected)
-api_key = None
-if "GOOGLE_API_KEY" in st.secrets:
-    api_key = st.secrets["GOOGLE_API_KEY"]
-elif "api_key_input" in st.session_state:
-    api_key = st.session_state.api_key_input
-
-if not api_key:
-    api_key = st.sidebar.text_input("Google AI API Key", type="password", key="api_key_input")
+# 4. API Key Retrieval
+api_key = st.secrets.get("GOOGLE_API_KEY") or st.sidebar.text_input("Google AI API Key", type="password")
 
 if api_key:
     try:
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-1.5-flash", system_instruction=SYSTEM_PROMPT)
+        # שימוש במודל המעודכן ביותר לפתרון שגיאת 404
+        model = genai.GenerativeModel("gemini-1.5-flash-latest", system_instruction=SYSTEM_PROMPT)
 
         if "messages" not in st.session_state:
             st.session_state.messages = []
@@ -58,7 +51,6 @@ if api_key:
 
             with st.chat_message("assistant"):
                 try:
-                    # Non-streaming fallback for stability
                     response = model.generate_content(final_query)
                     full_response = response.text
                     st.markdown(full_response)
