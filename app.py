@@ -1,6 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 from streamlit_mic_recorder import speech_to_text
+import os
 
 # 1. Page Configuration
 gemini_icon = "https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304651130.png"
@@ -20,41 +21,51 @@ st.markdown(f"""
 # 3. Protocol Setup
 SYSTEM_PROMPT = "Answer in the user's language. Start with '🇮🇱 Gemini תשובת'. Put 📝 before text. End with '🇮🇱 Gemini שאלת'."
 
-# 4. Handle API Key (From Secrets or Sidebar)
-api_key = st.secrets.get("GOOGLE_API_KEY") or st.sidebar.text_input("Google AI API Key", type="password")
+# 4. API Key Retrieval (Corrected)
+api_key = None
+if "GOOGLE_API_KEY" in st.secrets:
+    api_key = st.secrets["GOOGLE_API_KEY"]
+elif "api_key_input" in st.session_state:
+    api_key = st.session_state.api_key_input
+
+if not api_key:
+    api_key = st.sidebar.text_input("Google AI API Key", type="password", key="api_key_input")
 
 if api_key:
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-1.5-flash", system_instruction=SYSTEM_PROMPT)
+    try:
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel("gemini-1.5-flash", system_instruction=SYSTEM_PROMPT)
 
-    if "messages" not in st.session_state:
-        st.session_state.messages = []
+        if "messages" not in st.session_state:
+            st.session_state.messages = []
 
-    # Display Chat History
-    for msg in st.session_state.messages:
-        with st.chat_message(msg["role"]):
-            st.markdown(msg["content"])
+        for msg in st.session_state.messages:
+            with st.chat_message(msg["role"]):
+                st.markdown(msg["content"])
 
-    # Input Layout
-    col_input, col_mic = st.columns([0.88, 0.12])
-    with col_mic:
-        voice_query = speech_to_text(language='he', start_prompt="🎤", just_once=True, key="mic_button")
-    with col_input:
-        text_query = st.chat_input("Ask Gemini anything...")
+        col_input, col_mic = st.columns([0.85, 0.15])
+        with col_mic:
+            voice_query = speech_to_text(language='he', start_prompt="🎤", just_once=True, key="mic_button")
+        with col_input:
+            text_query = st.chat_input("Ask Gemini anything...")
 
-    final_query = voice_query if voice_query else text_query
+        final_query = voice_query if voice_query else text_query
 
-    if final_query:
-        st.session_state.messages.append({"role": "user", "content": final_query})
-        with st.chat_message("user"):
-            st.markdown(final_query)
+        if final_query:
+            st.session_state.messages.append({"role": "user", "content": final_query})
+            with st.chat_message("user"):
+                st.markdown(final_query)
 
-        with st.chat_message("assistant"):
-            def stream_data():
-                response = model.generate_content(final_query, stream=True)
-                for chunk in response:
-                    yield chunk.text
-            full_response = st.write_stream(stream_data)
-            st.session_state.messages.append({"role": "assistant", "content": full_response})
+            with st.chat_message("assistant"):
+                try:
+                    # Non-streaming fallback for stability
+                    response = model.generate_content(final_query)
+                    full_response = response.text
+                    st.markdown(full_response)
+                    st.session_state.messages.append({"role": "assistant", "content": full_response})
+                except Exception as e:
+                    st.error(f"AI Error: {str(e)}")
+    except Exception as e:
+        st.error(f"Connection Error: {str(e)}")
 else:
-    st.info("Please enter your API Key in the sidebar or add it to Secrets to start.")
+    st.info("Please enter your API Key in the sidebar or add it to Secrets.")
