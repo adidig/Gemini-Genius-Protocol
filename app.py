@@ -31,13 +31,13 @@ st.markdown(f"""
     /* Hide Streamlit default headers and footers */
     div[data-testid="stHeader"] {{ display: none; }}
     footer {{visibility: hidden;}}
+    </style>
     
     /* Mobile Home Screen Settings */
     <link rel="apple-touch-icon" href="{gemini_icon}">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    </style>
-    """, unsafe_allow_status_bar=True)
+    """, unsafe_allow_html=True)
 
 # 3. Protocol Setup (System Instruction)
 SYSTEM_PROMPT = """
